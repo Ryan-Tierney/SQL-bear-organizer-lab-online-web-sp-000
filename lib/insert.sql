@@ -1,4 +1,4 @@
-INSERT INTO bears 
+INSERT INTO bears ()
 INSERT INTO bears
 INSERT INTO bears
 INSERT INTO bears
